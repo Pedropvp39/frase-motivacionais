@@ -1,0 +1,88 @@
+#titulo {
+    align-items: center;
+    text-align: center;
+}
+
+#frase {
+    font-size: 1.4rem;
+    color: #fff;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+    margin: 0;
+}
+
+footer {
+    background-color: rgb(137, 137, 136);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    border-bottom: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(46, 183, 28);
+    border-radius: 10px;
+
+}
+
+button:hover {
+    border-bottom: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(30, 255, 0);
+    border-radius: 10px;
+    border: none;
+
+}
+
+.p {
+    display: list-item;
+    background-color: black;
+}
+
+img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    display: block;
+}
+
+main {
+    flex: 1;
+    width: 100%;
+    display: flex;              /* garante que main seja um flex container */
+    flex-direction: column;     /* mantém fluxo vertical */
+    justify-content: center;    /* centraliza verticalmente os filhos (incluindo o botão) */
+    align-items: center;        /* centraliza horizontalmente */
+    box-sizing: border-box;
+    padding: 16px;              /* opcional: evita tocar bordas da tela */
+}
+
+main section {
+    pointer-events: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+body {
+    background-color: rgb(234, 234, 234);
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* garante que o body ocupe a altura da tela */
+    margin: 0;
+}
+
+header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(127, 242, 255);
+    text-align: center;
+    height: 100px;
+    width: 100%;
+   
+
+}
