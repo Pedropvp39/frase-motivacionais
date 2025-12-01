@@ -11,7 +11,11 @@ Projeto criado com o intuito de gerar Frases Motivacionais pré-Definida que apa
 * Após isso extraia a pasta onde desejar *
 * Procure na pasta "index.html" e então click nele duas vezes e ele abrirá em seu navegador *
 # Lista de Funcionalidades
-
+* ✨ **Geração Aleatória:** Funcionalidade central para exibir uma **frase motivacional nova e inspiradora** a cada clique no botão.
+* 🗣️ **Conteúdo Inspirador:** Base de dados de frases focadas em **autoestima**, **persistência** e **sucesso**.
+* 🖼️ **Estímulo Visual:** Uso de **imagens relevantes** (motivacionais) para acompanhar a frase, aumentando o impacto da mensagem.
+* 🔄 **Reatividade Simples:** Interface minimalista e direta ao ponto, focada na **renovação imediata** do conteúdo motivacional.
+* 📱 **Fácil de Usar:** Design focado em uma **experiência rápida** para um "boost" de motivação no dia a dia.
 # Melhorias Futuras 
 * Modo Escuro
 * Monitoramento
