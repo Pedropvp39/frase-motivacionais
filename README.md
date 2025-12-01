@@ -1,2 +1,4 @@
 # frase-motivacionais
-paginas que gera frases motivacionais pre cadastradas
+
+
+https://pedropvp39.github.io/gerador-de-dicas-de-estudo/
