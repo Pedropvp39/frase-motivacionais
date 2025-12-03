@@ -5,6 +5,7 @@ Projeto criado com o intuito de gerar Frases Motivacionais pré-Definida que apa
 * **CSS**
 * **JavaScript**
 * **Git e GitHub**
+* **VS Code**
 # como Instalar
 ## ⚙️ Pré-requisitos
 * Click em "Code" e então em Download.Zip *
@@ -20,7 +21,6 @@ Projeto criado com o intuito de gerar Frases Motivacionais pré-Definida que apa
 * Modo Escuro
 * Monitoramento
 * Conectar a um servidor
-* deixa-la mais completa
 * Fazer com que ela guarde tudo oque já foi feito anteriormente
 # Aprendizagem 
 Na criação desta pagina foi possivel compreender como definir no JavaScript para que ele mostre um item em ordem aleatoria,Como organizar melhor os itens. 
@@ -36,6 +36,7 @@ Para obter uma cópia completa do código e do histórico da pagina, use o segui
 | :--- | :--- |
 | **Autor** | Pedro Henrique.L.Cavalvanti |
 | **Turno** | Matutino |
+||Turma de tecnologia em informatica para Internet - SENAC-DF|
 | **GitHub** | [@Pedropvp39](https://github.com/Pedropvp39) |
 ## Link caso ele ainda esteja hospedado "temporariamente".
 https://pedropvp39.github.io/frase-motivacionais/
