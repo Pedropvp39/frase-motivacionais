@@ -28,7 +28,7 @@ Na criação desta pagina foi possivel compreender como definir no JavaScript pa
 ## 🧑‍💻 Passo a Passo
 Para obter uma cópia completa do código e do histórico da pagina, use o seguinte comando no seu Terminal:
 * Copie a URL HTTPS do repositório
-* "[git clone https://github.com/SeuUsuario/nome-do-site.git](https://github.com/Pedropvp39/frase-motivacionais.git)"
+* "(https://github.com/Pedropvp39/frase-motivacionais.git"
 # Autor
 | Campo | Informação |
 | :--- | :--- |
